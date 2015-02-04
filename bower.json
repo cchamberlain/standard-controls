@@ -1,0 +1,27 @@
+{
+  "name": "standard-controls",
+  "version": "0.0.0",
+  "authors": [
+    "Cole Chamberlain <cole.chamberlain@gmail.com>"
+  ],
+  "description": "Control related directives and services for standard libraries.",
+  "main": ["./standard-controls.js", "./templates/standard-dots.html", "./templates/standard-select.html"],
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "angular",
+    "standard",
+    "controls",
+    "directives",
+    "services"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
